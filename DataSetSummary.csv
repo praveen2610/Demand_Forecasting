@@ -1,0 +1,17 @@
+Company id,Company name ,Store id,Store name ,Bay id,Bay name ,Capacity
+8,Aaarhus,1,Ultimo,1,Bay 1,100
+2,Allentown,1,Ultimo,2,Bay 2,100
+3,Barcelona,1,Ultimo,3,Bay 3,75
+4,Bergamo,1,Ultimo,4,Bay 4,50
+5,Bergen,2,Greenwich,5,Bay 1,200
+6,Boras,2,Greenwich,6,Bay 2,150
+7,Boston,2,Greenwich,7,Bay 3,125
+1,Coles,2,Greenwich,8,Bay 4,100
+1,Coles,3,Hornsby,9,Bay 1,50
+1,Coles,3,Hornsby,10,Bay 2,30
+1,Coles,3,Hornsby,11,Bay 3,60
+1,Coles,3,Hornsby,12,Bay 4,40
+1,Coles,4,North Sydney,13,Bay 1,80
+1,Coles,4,North Sydney,14,Bay 2,75
+1,Coles,4,North Sydney,15,Bay 3,75
+1,Coles,4,North Sydney,16,Bay 4,50
